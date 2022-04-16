@@ -1,0 +1,27 @@
+body{
+    background-image: url(./imagenes/FondoBarza1.jpg);
+    background-size: 100%;
+}
+.main{
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+    grid-area: main;
+}
+main{
+    text-align: center;
+}
+.contacto{
+    color: white;
+    width: 30%;
+    margin: 2rem;
+    padding: 2rem; 
+    border: gray 2px double;
+    border-radius: 1rem;
+    text-align: center;
+    color: white;
+    font-style: italic;
+    font-family: 'Fredoka', sans-serif;
+    font-weight: bold;
+    display: inline-block;
+}
